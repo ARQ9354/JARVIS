@@ -1,0 +1,959 @@
+text,intent,language
+terminal kholo,AUTOMATION,hinglish
+Delhi ka current weather kya hai,REAL_TIME,hinglish
+open the camera,AUTOMATION,english
+sound settings kholo,AUTOMATION,hinglish
+What is IoT?,GENERAL,english
+encryption kya hoti hai,GENERAL,hinglish
+abhi check karo abhi weather kaisa hai abhi,REAL_TIME,hinglish
+what is the AQI in Delhi right now,REAL_TIME,english
+volume badhao,AUTOMATION,hinglish
+what is the latest Microsoft news,REAL_TIME,english
+program start karo,AUTOMATION,hinglish
+aaj AQI kitna hai,REAL_TIME,hinglish
+mujhe batao machine learning kya hai achhe se,GENERAL,hinglish
+open pictures,AUTOMATION,english
+abhi kya trending hai,REAL_TIME,hinglish
+aage jao,AUTOMATION,hinglish
+Explain computer vision,GENERAL,english
+aaj flights delay hain kya,REAL_TIME,hinglish
+"Jarvis, open chrome for me",AUTOMATION,english
+How does Wi-Fi work?,GENERAL,english
+maximize the window,AUTOMATION,english
+are flights delayed today,REAL_TIME,english
+What is a compiler?,GENERAL,english
+what is the score right now,REAL_TIME,english
+Chrome kholo aur Google par search karo,AUTOMATION,hinglish
+How does Bluetooth work?,GENERAL,english
+put the computer to sleep,AUTOMATION,english
+abhi bitcoin ka price kya hai,REAL_TIME,hinglish
+what is the current weather in Manali,REAL_TIME,english
+robotics samjhao,GENERAL,hinglish
+diesel ka current price kya hai,REAL_TIME,hinglish
+private tab kholo,AUTOMATION,hinglish
+connect to wifi,AUTOMATION,english
+open calculator and calculate,AUTOMATION,english
+Jaipur ka current weather kya hai,REAL_TIME,hinglish
+"Jarvis, chrome kholo abhi",AUTOMATION,hinglish
+mouse settings kholo,AUTOMATION,hinglish
+Tell me what is the weather right now right now,REAL_TIME,english
+sensors samjhao,GENERAL,hinglish
+What is tokenization?,GENERAL,english
+What is an actuator?,GENERAL,english
+loss function kya hai,GENERAL,hinglish
+What is recursion used for?,GENERAL,english
+time complexity kya hoti hai,GENERAL,hinglish
+mujhe batao machine learning kya hai,GENERAL,hinglish
+activation function kya hota hai,GENERAL,hinglish
+What is DNA?,GENERAL,english
+live score kya hai,REAL_TIME,hinglish
+what is the latest news about AI,REAL_TIME,english
+aaj sunrise kab hai,REAL_TIME,hinglish
+array kya hai,GENERAL,hinglish
+Why is the sky blue?,GENERAL,english
+open chrome,AUTOMATION,english
+abstraction kya hai,GENERAL,hinglish
+dynamic programming kya hai,GENERAL,hinglish
+What is authorization?,GENERAL,english
+copy the selected text,AUTOMATION,english
+what is the current market trend,REAL_TIME,english
+aaj kaun se shows trending hain,REAL_TIME,hinglish
+what is tomorrow's weather forecast,REAL_TIME,english
+what is bitcoin price right now,REAL_TIME,english
+increase the volume,AUTOMATION,english
+gradient descent samjhao,GENERAL,hinglish
+chatbot kaise kaam karta hai,GENERAL,hinglish
+open notepad,AUTOMATION,english
+What is natural language processing?,GENERAL,english
+copy this file,AUTOMATION,english
+foreign key kya hoti hai,GENERAL,hinglish
+pichhli window par jao,AUTOMATION,hinglish
+computer memory kya hoti hai,GENERAL,hinglish
+recursion ka use kya hai,GENERAL,hinglish
+What is a data structure?,GENERAL,english
+open sound settings,AUTOMATION,english
+file band karo,AUTOMATION,hinglish
+backpropagation kya hai,GENERAL,hinglish
+please samjhao machine learning kya hai simple language mein,GENERAL,hinglish
+open keyboard settings,AUTOMATION,english
+what is the current gold rate in India,REAL_TIME,english
+what is ethereum price now,REAL_TIME,english
+what is the latest football news,REAL_TIME,english
+what is the weather right now,REAL_TIME,english
+brightness increase karo,AUTOMATION,hinglish
+Explain attention in transformers,GENERAL,english
+ye file copy karo,AUTOMATION,hinglish
+thoda clearly samjhao machine learning kya hai,GENERAL,hinglish
+what is the current cricket score,REAL_TIME,english
+How does a chatbot work?,GENERAL,english
+Delhi mein aaj kya ho raha hai,REAL_TIME,hinglish
+open a new browser tab,AUTOMATION,english
+Explain Git,GENERAL,english
+delete the selected file,AUTOMATION,english
+abhi baarish ho rahi hai kya,REAL_TIME,hinglish
+abhi air quality kaisi hai,REAL_TIME,hinglish
+upar scroll karo,AUTOMATION,hinglish
+enable bluetooth,AUTOMATION,english
+when does the sun set today,REAL_TIME,english
+what time is it now,REAL_TIME,english
+calculator kholo aur calculate karo,AUTOMATION,hinglish
+Linux kya hai,GENERAL,hinglish
+thoda clearly samjhao machine learning kya hai simple language mein,GENERAL,hinglish
+What is reinforcement learning?,GENERAL,english
+set a timer,AUTOMATION,english
+page ke bottom par jao,AUTOMATION,hinglish
+aaj mausam kaisa hai,REAL_TIME,hinglish
+is it raining now,REAL_TIME,english
+Please open chrome now,AUTOMATION,english
+mere liye chrome kholo,AUTOMATION,hinglish
+Dart kya hai,GENERAL,hinglish
+aaj gold per gram kitna hai,REAL_TIME,hinglish
+Explain the water cycle,GENERAL,english
+How does gravity work?,GENERAL,english
+latest cricket news kya hai,REAL_TIME,hinglish
+what is today's weather,REAL_TIME,english
+what is the AQI today,REAL_TIME,english
+microphone settings kholo,AUTOMATION,hinglish
+What is NumPy?,GENERAL,english
+bahar abhi temperature kya hai,REAL_TIME,hinglish
+aaj dollar kitne ka hai,REAL_TIME,hinglish
+what are today's headlines,REAL_TIME,english
+What is dynamic programming?,GENERAL,english
+What is a transformer model?,GENERAL,english
+What is Pandas?,GENERAL,english
+what happened today,REAL_TIME,english
+stop the music,AUTOMATION,english
+What is a process?,GENERAL,english
+Tell me what is the weather right now,REAL_TIME,english
+close the current tab,AUTOMATION,english
+Please check what is the weather right now right now,REAL_TIME,english
+computer vision ka use kya hai,GENERAL,hinglish
+aaj pound ka rate kya hai,REAL_TIME,hinglish
+documents folder kholo,AUTOMATION,hinglish
+what is the latest Apple news,REAL_TIME,english
+ye file paste karo,AUTOMATION,hinglish
+What is a variable in programming?,GENERAL,english
+What is underfitting?,GENERAL,english
+what is the latest update right now,REAL_TIME,english
+run a command,AUTOMATION,english
+Pandas kya hai,GENERAL,hinglish
+What is an array?,GENERAL,english
+aaj ki top story kya hai,REAL_TIME,hinglish
+saari windows minimize karo,AUTOMATION,hinglish
+open desktop folder,AUTOMATION,english
+Nifty aaj kaisa chal raha hai,REAL_TIME,hinglish
+open calculator,AUTOMATION,english
+Explain multithreading,GENERAL,english
+What is SQL?,GENERAL,english
+undo the last action,AUTOMATION,english
+is there a storm right now,REAL_TIME,english
+aaj ka weather forecast batao,REAL_TIME,hinglish
+what is the latest train status,REAL_TIME,english
+What is JSON?,GENERAL,english
+aaj ki news kya hai,REAL_TIME,hinglish
+Wi-Fi kaise kaam karta hai,GENERAL,hinglish
+What is resistance?,GENERAL,english
+is there rain outside right now,REAL_TIME,english
+what is the current weather in Mumbai,REAL_TIME,english
+speech recognition kya hai,GENERAL,hinglish
+machine learning algorithms samjhao,GENERAL,hinglish
+turn the screen brightness down,AUTOMATION,english
+What is Linux?,GENERAL,english
+transformers mein attention kya hai,GENERAL,hinglish
+what is the current USD INR rate,REAL_TIME,english
+latest science news kya hai,REAL_TIME,hinglish
+open documents,AUTOMATION,english
+music dobara chalao,AUTOMATION,hinglish
+open mouse settings,AUTOMATION,english
+dark mode on karo,AUTOMATION,hinglish
+awaz kam karo,AUTOMATION,hinglish
+window minimize karo,AUTOMATION,hinglish
+computer lock karo,AUTOMATION,hinglish
+set an alarm,AUTOMATION,english
+calculator kholo,AUTOMATION,hinglish
+create a shortcut,AUTOMATION,english
+command run karo,AUTOMATION,hinglish
+selected file delete karo,AUTOMATION,hinglish
+Delhi se latest news kya hai,REAL_TIME,hinglish
+Can you check what is the weather right now right now,REAL_TIME,english
+What is an algorithm?,GENERAL,english
+latest SpaceX news kya hai,REAL_TIME,hinglish
+programming mein variable kya hota hai,GENERAL,hinglish
+Delhi ka AQI abhi kitna hai,REAL_TIME,hinglish
+What is a tree?,GENERAL,english
+alarm band karo,AUTOMATION,hinglish
+what is the current population,REAL_TIME,english
+abhi stock price kya hai,REAL_TIME,hinglish
+unsupervised learning kya hai,GENERAL,hinglish
+previous song chalao,AUTOMATION,hinglish
+What is deep learning?,GENERAL,english
+what is today's sunrise time,REAL_TIME,english
+computer mute karo,AUTOMATION,hinglish
+when is the next match,REAL_TIME,english
+stop the alarm,AUTOMATION,english
+queue kya hai,GENERAL,hinglish
+Mumbai ka current weather kya hai,REAL_TIME,hinglish
+wifi disconnect karo,AUTOMATION,hinglish
+current population kitni hai,REAL_TIME,hinglish
+"Jarvis, open chrome now",AUTOMATION,english
+URL enter karne par kya hota hai,GENERAL,hinglish
+agli tab par jao,AUTOMATION,hinglish
+computer sleep par daalo,AUTOMATION,hinglish
+what is the current petrol price,REAL_TIME,english
+what is trending today,REAL_TIME,english
+switch to the next tab,AUTOMATION,english
+screen ka screenshot lo,AUTOMATION,hinglish
+What is GitHub?,GENERAL,english
+Please explain What is machine learning?,GENERAL,english
+Can you open chrome,AUTOMATION,english
+page refresh karo,AUTOMATION,hinglish
+optimizer kya hota hai,GENERAL,hinglish
+what is the latest OpenAI news,REAL_TIME,english
+camera kholo,AUTOMATION,hinglish
+what is the weather forecast for today,REAL_TIME,english
+open the recycle bin,AUTOMATION,english
+What is backend development?,GENERAL,english
+Please check what is the weather right now today,REAL_TIME,english
+TCP kya hai,GENERAL,hinglish
+abhi bahar garmi hai kya,REAL_TIME,hinglish
+What is a feature in machine learning?,GENERAL,english
+"Jarvis, open chrome",AUTOMATION,english
+open the calculator,AUTOMATION,english
+abhi bahar baarish hai kya,REAL_TIME,hinglish
+what is the price of silver today,REAL_TIME,english
+abhi weather kaisa hai,REAL_TIME,hinglish
+underfitting kya hota hai,GENERAL,hinglish
+minimize the window,AUTOMATION,english
+aaj kaun sa din hai,REAL_TIME,hinglish
+what is 1 pound worth today,REAL_TIME,english
+what is Nifty doing today,REAL_TIME,english
+Can you check what is the weather right now today,REAL_TIME,english
+What is an optimizer?,GENERAL,english
+reinforcement learning kya hai,GENERAL,hinglish
+memory management kya hai,GENERAL,hinglish
+play the previous song,AUTOMATION,english
+what is happening this weekend,REAL_TIME,english
+class kya hoti hai,GENERAL,hinglish
+aaj airport par delay hai kya,REAL_TIME,hinglish
+database normalization kya hai,GENERAL,hinglish
+aaj technology mein kya hua,REAL_TIME,hinglish
+abhi check karo abhi weather kaisa hai,REAL_TIME,hinglish
+open powershell,AUTOMATION,english
+Delhi mein aaj baarish hogi kya,REAL_TIME,hinglish
+close this application,AUTOMATION,english
+who won the game today,REAL_TIME,english
+peeche jao,AUTOMATION,hinglish
+What is an object?,GENERAL,english
+keyboard settings kholo,AUTOMATION,hinglish
+gravity kaise kaam karti hai,GENERAL,hinglish
+Can you open chrome now,AUTOMATION,english
+what is trending on the internet today,REAL_TIME,english
+latest election news kya hai,REAL_TIME,hinglish
+recursion samjhao,GENERAL,hinglish
+clipboard paste karo,AUTOMATION,hinglish
+What is text to speech?,GENERAL,english
+latest technology news,REAL_TIME,english
+What is React?,GENERAL,english
+What is a CPU?,GENERAL,english
+aaj ki date kya hai,REAL_TIME,hinglish
+aaj baarish hogi kya,REAL_TIME,hinglish
+What is full stack development?,GENERAL,english
+computer network samjhao,GENERAL,hinglish
+Explain voltage and current,GENERAL,english
+next song chalao,AUTOMATION,hinglish
+RAM kya hai,GENERAL,hinglish
+React kya hai,GENERAL,hinglish
+system settings kholo,AUTOMATION,hinglish
+bitcoin ki current price kya hai,REAL_TIME,hinglish
+Explain robotics,GENERAL,english
+IoT kya hai,GENERAL,hinglish
+Explain object oriented programming,GENERAL,english
+Google par search karo,AUTOMATION,hinglish
+what is the current euro rate,REAL_TIME,english
+Explain self attention,GENERAL,english
+take a screenshot,AUTOMATION,english
+open recent files,AUTOMATION,english
+what is the latest news from Delhi,REAL_TIME,english
+Could you tell me What is machine learning?,GENERAL,english
+multithreading samjhao,GENERAL,hinglish
+tokenization kya hoti hai,GENERAL,hinglish
+awaz badhao,AUTOMATION,hinglish
+is my train running on time,REAL_TIME,english
+What is Node.js?,GENERAL,english
+what events are happening today,REAL_TIME,english
+paste the clipboard,AUTOMATION,english
+Sensex aaj kaisa chal raha hai,REAL_TIME,hinglish
+How does the human brain work?,GENERAL,english
+aaj suraj kab doobega,REAL_TIME,hinglish
+Explain quicksort,GENERAL,english
+decrease the volume,AUTOMATION,english
+What is a dataset?,GENERAL,english
+zoom out karo,AUTOMATION,hinglish
+meri train time par chal rahi hai kya,REAL_TIME,hinglish
+aaj kya hua,REAL_TIME,hinglish
+Explain sensors,GENERAL,english
+redo the last action,AUTOMATION,english
+what is the current moon phase,REAL_TIME,english
+text file banao,AUTOMATION,hinglish
+What is classification?,GENERAL,english
+what is the current gold rate,REAL_TIME,english
+browser band karo,AUTOMATION,hinglish
+aaj market kahan close hua,REAL_TIME,hinglish
+primary key kya hoti hai,GENERAL,hinglish
+what is the latest science news,REAL_TIME,english
+switch to the previous window,AUTOMATION,english
+what is 1 dollar worth today,REAL_TIME,english
+current cricket score kya hai,REAL_TIME,hinglish
+What is encryption?,GENERAL,english
+close the file,AUTOMATION,english
+latest OpenAI news kya hai,REAL_TIME,hinglish
+What is a thread?,GENERAL,english
+What is a loss function?,GENERAL,english
+version control kya hai,GENERAL,hinglish
+full stack development kya hai,GENERAL,hinglish
+what is the live score,REAL_TIME,english
+Please check what is the weather right now,REAL_TIME,english
+selected file ka naam badlo,AUTOMATION,hinglish
+photosynthesis samjhao,GENERAL,hinglish
+what is the current traffic situation,REAL_TIME,english
+latest headlines batao,REAL_TIME,hinglish
+self attention samjhao,GENERAL,hinglish
+stock market abhi open hai kya,REAL_TIME,hinglish
+play music,AUTOMATION,english
+what happened in technology today,REAL_TIME,english
+bluetooth off karo,AUTOMATION,hinglish
+latest tech updates batao,REAL_TIME,hinglish
+aaj sunset kab hai,REAL_TIME,hinglish
+motor kaise kaam karta hai,GENERAL,hinglish
+open file explorer,AUTOMATION,english
+move the selected file,AUTOMATION,english
+operating system kya hai,GENERAL,hinglish
+linked list kya hai,GENERAL,hinglish
+Can you open chrome for me,AUTOMATION,english
+desktop folder kholo,AUTOMATION,hinglish
+What is PyTorch?,GENERAL,english
+Explain databases,GENERAL,english
+desktop dikhao,AUTOMATION,hinglish
+latest news batao,REAL_TIME,hinglish
+What is time complexity?,GENERAL,english
+What is a primary key?,GENERAL,english
+start vscode,AUTOMATION,english
+What is polymorphism?,GENERAL,english
+create a text file,AUTOMATION,english
+What is a class?,GENERAL,english
+what is today's IPL news,REAL_TIME,english
+unmute my computer,AUTOMATION,english
+email kholo,AUTOMATION,hinglish
+wifi se connect karo,AUTOMATION,hinglish
+abhi bahar thand hai kya,REAL_TIME,hinglish
+kal suraj kab niklega,REAL_TIME,hinglish
+What is abstraction?,GENERAL,english
+Explain cloud computing,GENERAL,english
+please batao abhi weather kaisa hai aaj,REAL_TIME,hinglish
+What is RAM?,GENERAL,english
+What is memory in a computer?,GENERAL,english
+what is trending right now,REAL_TIME,english
+cybersecurity samjhao,GENERAL,hinglish
+music chalao,AUTOMATION,hinglish
+Pune ka current weather kya hai,REAL_TIME,hinglish
+turn off wifi,AUTOMATION,english
+aaj kya trend kar raha hai,REAL_TIME,hinglish
+voltage aur current samjhao,GENERAL,hinglish
+please batao abhi weather kaisa hai abhi,REAL_TIME,hinglish
+close chrome,AUTOMATION,english
+electricity kya hai,GENERAL,hinglish
+open telegram,AUTOMATION,english
+open videos,AUTOMATION,english
+take a screenshot of the screen,AUTOMATION,english
+merge sort samjhao,GENERAL,hinglish
+mute my computer,AUTOMATION,english
+when is the next cricket match,REAL_TIME,english
+breaking news batao,REAL_TIME,hinglish
+What is TCP?,GENERAL,english
+Explain neural networks,GENERAL,english
+what is 1 euro worth today,REAL_TIME,english
+sorting kaise kaam karti hai,GENERAL,hinglish
+what is the latest Sensex news,REAL_TIME,english
+disconnect from wifi,AUTOMATION,english
+timer cancel karo,AUTOMATION,hinglish
+transformer model kya hai,GENERAL,hinglish
+latest weather update batao,REAL_TIME,hinglish
+open spotify,AUTOMATION,english
+chrome start karo,AUTOMATION,hinglish
+latest world news,REAL_TIME,english
+current repo rate kya hai,REAL_TIME,hinglish
+What is a database?,GENERAL,english
+stack kya hai,GENERAL,hinglish
+How does a microcontroller work?,GENERAL,english
+are there traffic updates right now,REAL_TIME,english
+embedding kya hoti hai,GENERAL,hinglish
+open settings,AUTOMATION,english
+screenshot lo,AUTOMATION,hinglish
+application restart karo,AUTOMATION,hinglish
+gold ka current rate kya hai,REAL_TIME,hinglish
+what is the latest stock market update,REAL_TIME,english
+google chrome kholo,AUTOMATION,hinglish
+overfitting kya hota hai,GENERAL,hinglish
+interpreter kya hai,GENERAL,hinglish
+What is encapsulation?,GENERAL,english
+India mein gold ka current rate kya hai,REAL_TIME,hinglish
+what shows are trending today,REAL_TIME,english
+aaj kaun si movies trending hain,REAL_TIME,hinglish
+frontend development kya hai,GENERAL,hinglish
+solar system kya hai,GENERAL,hinglish
+please chrome kholo please,AUTOMATION,hinglish
+abhi kitne baje hain,REAL_TIME,hinglish
+neural network samjhao,GENERAL,hinglish
+What is TensorFlow?,GENERAL,english
+open my documents folder,AUTOMATION,english
+abhi news mein kya chal raha hai,REAL_TIME,hinglish
+CSS kya hai,GENERAL,hinglish
+What is speech recognition?,GENERAL,english
+fuel ka current price kya hai,REAL_TIME,hinglish
+evolution kya hai,GENERAL,hinglish
+software engineering samjhao,GENERAL,hinglish
+go to the bottom of the page,AUTOMATION,english
+open Chrome and search Google,AUTOMATION,english
+compiler kya hai,GENERAL,hinglish
+Explain object oriented programming in Python,GENERAL,english
+spotify kholo,AUTOMATION,hinglish
+What is a REST API?,GENERAL,english
+What happens when I enter a URL?,GENERAL,english
+Please open chrome,AUTOMATION,english
+actuator kya hota hai,GENERAL,hinglish
+Python mein OOP samjhao,GENERAL,hinglish
+What is machine learning?,GENERAL,english
+computer unmute karo,AUTOMATION,hinglish
+mere liye chrome kholo abhi,AUTOMATION,hinglish
+volume fifty percent karo,AUTOMATION,hinglish
+what is today's sunset time,REAL_TIME,english
+aaj ek dollar kitne rupaye ka hai,REAL_TIME,hinglish
+What is HTML?,GENERAL,english
+JavaScript kya hai,GENERAL,hinglish
+rename the selected file,AUTOMATION,english
+What is normalization in databases?,GENERAL,english
+Git samjhao,GENERAL,hinglish
+mute the volume,AUTOMATION,english
+latest football score kya hai,REAL_TIME,hinglish
+please chrome kholo,AUTOMATION,hinglish
+web browser kaise kaam karta hai,GENERAL,hinglish
+what is the price of gold today,REAL_TIME,english
+open discord,AUTOMATION,english
+Can you explain What is machine learning? clearly,GENERAL,english
+open my downloads folder,AUTOMATION,english
+latest movie news kya hai,REAL_TIME,hinglish
+browser zoom reset karo,AUTOMATION,hinglish
+open the microphone settings,AUTOMATION,english
+what is the latest Tesla news,REAL_TIME,english
+JSON kya hai,GENERAL,hinglish
+unmute the volume,AUTOMATION,english
+what is the humidity right now,REAL_TIME,english
+what is happening in Delhi today,REAL_TIME,english
+what is the current time,REAL_TIME,english
+calculator kholo,AUTOMATION,hinglish
+Explain machine learning algorithms,GENERAL,english
+will it rain in Delhi today,REAL_TIME,english
+what is the latest election news,REAL_TIME,english
+start menu kholo,AUTOMATION,hinglish
+hash table kya hai,GENERAL,hinglish
+GPU kya hai,GENERAL,hinglish
+mere liye chrome kholo please,AUTOMATION,hinglish
+chrome band karo,AUTOMATION,hinglish
+Explain merge sort,GENERAL,english
+What is backpropagation?,GENERAL,english
+reset browser zoom,AUTOMATION,english
+abhi moon phase kya hai,REAL_TIME,hinglish
+What is a queue?,GENERAL,english
+abhi humidity kitni hai,REAL_TIME,hinglish
+open whatsapp,AUTOMATION,english
+last action redo karo,AUTOMATION,hinglish
+open a file,AUTOMATION,english
+internet par aaj kya trending hai,REAL_TIME,hinglish
+resistance kya hota hai,GENERAL,hinglish
+will it rain today,REAL_TIME,english
+euro ka current rate kya hai,REAL_TIME,hinglish
+What is normalization?,GENERAL,english
+documents kholo,AUTOMATION,hinglish
+Please explain What is machine learning? in simple terms,GENERAL,english
+How does a web browser work?,GENERAL,english
+show the desktop,AUTOMATION,english
+volume kam karo,AUTOMATION,hinglish
+Albert Einstein kaun the,GENERAL,hinglish
+launch youtube,AUTOMATION,english
+What is regression?,GENERAL,english
+is the stock market open now,REAL_TIME,english
+abhi time kya hua hai,REAL_TIME,hinglish
+jo chal raha hai use pause karo,AUTOMATION,hinglish
+Hyderabad ka current weather kya hai,REAL_TIME,hinglish
+give me the latest news,REAL_TIME,english
+what is the forecast for this evening,REAL_TIME,english
+dark mode off karo,AUTOMATION,hinglish
+Can you explain What is machine learning?,GENERAL,english
+next match kab hai,REAL_TIME,hinglish
+what is the latest SpaceX news,REAL_TIME,english
+selected file move karo,AUTOMATION,hinglish
+What is computer vision used for?,GENERAL,english
+what is happening in the news right now,REAL_TIME,english
+current traffic situation kya hai,REAL_TIME,hinglish
+databases samjhao,GENERAL,hinglish
+what are today's news,REAL_TIME,english
+What is blockchain?,GENERAL,english
+microcontroller kaise kaam karta hai,GENERAL,hinglish
+open browser and go to YouTube,AUTOMATION,english
+what is today's date,REAL_TIME,english
+what is the current temperature outside,REAL_TIME,english
+bluetooth settings kholo,AUTOMATION,hinglish
+What is an API?,GENERAL,english
+what is the latest movie news,REAL_TIME,english
+what movies are trending today,REAL_TIME,english
+what is the current temperature,REAL_TIME,english
+what is the latest weather update,REAL_TIME,english
+What is a transistor?,GENERAL,english
+zoom in,AUTOMATION,english
+blockchain kya hai,GENERAL,hinglish
+latest space news kya hai,REAL_TIME,hinglish
+Explain evolution,GENERAL,english
+transistor kya hota hai,GENERAL,hinglish
+exception handling samjhao,GENERAL,hinglish
+screen brightness kam karo,AUTOMATION,hinglish
+open task manager,AUTOMATION,english
+disable bluetooth,AUTOMATION,english
+agli window par jao,AUTOMATION,hinglish
+Python kya hai,GENERAL,hinglish
+Bluetooth kaise kaam karta hai,GENERAL,hinglish
+Rishikesh ka current weather kya hai,REAL_TIME,hinglish
+Explain cybersecurity,GENERAL,english
+What is CSS?,GENERAL,english
+what is the latest AI news,REAL_TIME,english
+Big O notation kya hai,GENERAL,hinglish
+open google chrome,AUTOMATION,english
+recent files kholo,AUTOMATION,hinglish
+cell kya hota hai,GENERAL,hinglish
+What is a foreign key?,GENERAL,english
+latest sports news kya hai,REAL_TIME,hinglish
+aasman neela kyun hota hai,GENERAL,hinglish
+what is the temperature right now,REAL_TIME,english
+brightness decrease karo,AUTOMATION,hinglish
+create a new folder,AUTOMATION,english
+refresh the page,AUTOMATION,english
+lock my computer,AUTOMATION,english
+open vscode,AUTOMATION,english
+aaj ek euro kitne ka hai,REAL_TIME,hinglish
+browser kholo aur YouTube par jao,AUTOMATION,hinglish
+What is a GPU?,GENERAL,english
+zoom in karo,AUTOMATION,hinglish
+algorithm kya hota hai,GENERAL,hinglish
+volume unmute karo,AUTOMATION,hinglish
+Arduino kya hai,GENERAL,hinglish
+What is HTTP?,GENERAL,english
+petrol ka current price kya hai,REAL_TIME,hinglish
+What is unsupervised learning?,GENERAL,english
+desktop folder kholo,AUTOMATION,hinglish
+settings kholo,AUTOMATION,hinglish
+current exchange rate kya hai,REAL_TIME,hinglish
+network settings kholo,AUTOMATION,hinglish
+dollar ka current rate kya hai,REAL_TIME,hinglish
+backend development kya hai,GENERAL,hinglish
+cancel the timer,AUTOMATION,english
+TensorFlow kya hai,GENERAL,hinglish
+How does a motor work?,GENERAL,english
+start a program,AUTOMATION,english
+abhi temperature kya hai,REAL_TIME,hinglish
+what are the latest tech updates,REAL_TIME,english
+GitHub kya hai,GENERAL,hinglish
+What is the theory of relativity?,GENERAL,english
+downloads kholo,AUTOMATION,hinglish
+what is the current oil price,REAL_TIME,english
+abhi score kya hai,REAL_TIME,hinglish
+pictures kholo,AUTOMATION,hinglish
+discord kholo,AUTOMATION,hinglish
+go forward,AUTOMATION,english
+CPU kya hai,GENERAL,hinglish
+telegram kholo,AUTOMATION,hinglish
+computer mein search karo,AUTOMATION,hinglish
+latest Apple news kya hai,REAL_TIME,hinglish
+music folder kholo,AUTOMATION,hinglish
+chrome launch karo,AUTOMATION,hinglish
+videos kholo,AUTOMATION,hinglish
+API kya hoti hai,GENERAL,hinglish
+turn on dark mode,AUTOMATION,english
+deep learning kya hoti hai,GENERAL,hinglish
+switch to the next window,AUTOMATION,english
+pause the music,AUTOMATION,english
+turn on wifi,AUTOMATION,english
+What is a hash table?,GENERAL,english
+NumPy kya hai,GENERAL,hinglish
+shut down my computer,AUTOMATION,english
+Explain binary search,GENERAL,english
+what is today's top story,REAL_TIME,english
+what is the latest Nifty news,REAL_TIME,english
+open command prompt,AUTOMATION,english
+What is authentication?,GENERAL,english
+What is overfitting?,GENERAL,english
+artificial intelligence samjhao,GENERAL,hinglish
+what is the latest cricket news,REAL_TIME,english
+recycle bin empty karo,AUTOMATION,hinglish
+normalization kya hai,GENERAL,hinglish
+file explorer kholo,AUTOMATION,hinglish
+open system settings,AUTOMATION,english
+Explain recursion,GENERAL,english
+selected text copy karo,AUTOMATION,hinglish
+Who invented the telephone?,GENERAL,english
+ethereum ka price abhi kya hai,REAL_TIME,hinglish
+binary search samjhao,GENERAL,hinglish
+what is the weather today,REAL_TIME,english
+open my calendar,AUTOMATION,english
+abhi check karo abhi weather kaisa hai aaj,REAL_TIME,hinglish
+open my desktop folder,AUTOMATION,english
+open the terminal,AUTOMATION,english
+hash function kya hai,GENERAL,hinglish
+please samjhao machine learning kya hai achhe se,GENERAL,hinglish
+what is the latest RBI update,REAL_TIME,english
+machine learning kya hai,GENERAL,hinglish
+search my computer,AUTOMATION,english
+naya folder banao,AUTOMATION,hinglish
+latest RBI update kya hai,REAL_TIME,hinglish
+kal ka weather forecast kya hai,REAL_TIME,hinglish
+Could you tell me What is machine learning? clearly,GENERAL,english
+Could you tell me What is machine learning? in simple terms,GENERAL,english
+select all text,AUTOMATION,english
+wifi on karo,AUTOMATION,hinglish
+go to the top of the page,AUTOMATION,english
+what is the temperature in Delhi now,REAL_TIME,english
+aaj ki headlines batao,REAL_TIME,hinglish
+latest India news,REAL_TIME,english
+telephone kisne invent kiya,GENERAL,hinglish
+What is debugging?,GENERAL,english
+whatsapp kholo,AUTOMATION,hinglish
+turn the volume up,AUTOMATION,english
+Can you explain What is machine learning? in simple terms,GENERAL,english
+application force close karo,AUTOMATION,hinglish
+supervised learning kya hai,GENERAL,hinglish
+turn the volume down,AUTOMATION,english
+Flutter kya hai,GENERAL,hinglish
+mujhe batao machine learning kya hai simple language mein,GENERAL,hinglish
+give me breaking news,REAL_TIME,english
+What is version control?,GENERAL,english
+water cycle kya hai,GENERAL,hinglish
+clustering samjhao,GENERAL,hinglish
+aaj ka weather kya hai,REAL_TIME,hinglish
+data structure kya hota hai,GENERAL,hinglish
+what is the current repo rate,REAL_TIME,english
+pictures folder kholo,AUTOMATION,hinglish
+What is Flutter?,GENERAL,english
+open a private tab,AUTOMATION,english
+what is the latest sports news,REAL_TIME,english
+force close this application,AUTOMATION,english
+empty the recycle bin,AUTOMATION,english
+neeche scroll karo,AUTOMATION,hinglish
+text to speech kya hai,GENERAL,hinglish
+scroll down,AUTOMATION,english
+page ke top par jao,AUTOMATION,hinglish
+play the next track,AUTOMATION,english
+browser kholo,AUTOMATION,hinglish
+save the current file,AUTOMATION,english
+selected text cut karo,AUTOMATION,hinglish
+open network settings,AUTOMATION,english
+what is the current weather in Pune,REAL_TIME,english
+alarm lagao,AUTOMATION,hinglish
+latest market news kya hai,REAL_TIME,hinglish
+REST API kya hoti hai,GENERAL,hinglish
+Please open chrome for me,AUTOMATION,english
+abhi temperature kitna hai,REAL_TIME,hinglish
+latest train status kya hai,REAL_TIME,hinglish
+What is a hash function?,GENERAL,english
+process kya hota hai,GENERAL,hinglish
+volume mute karo,AUTOMATION,hinglish
+set volume to fifty percent,AUTOMATION,english
+what is the latest market news,REAL_TIME,english
+current application band karo,AUTOMATION,hinglish
+thread kya hota hai,GENERAL,hinglish
+turn the screen brightness up,AUTOMATION,english
+what is the current stock price,REAL_TIME,english
+open email,AUTOMATION,english
+what is the latest YouTube trend,REAL_TIME,english
+timer lagao,AUTOMATION,hinglish
+is the airport delayed today,REAL_TIME,english
+quicksort samjhao,GENERAL,hinglish
+cut the selected text,AUTOMATION,english
+go back,AUTOMATION,english
+Node.js kya hai,GENERAL,hinglish
+what is the current diesel price,REAL_TIME,english
+what is the current weather in Bangalore,REAL_TIME,english
+PyTorch kya hai,GENERAL,hinglish
+shortcut banao,AUTOMATION,hinglish
+pause whatever is playing,AUTOMATION,english
+aaj IPL ki news kya hai,REAL_TIME,hinglish
+what is the current weather in Delhi,REAL_TIME,english
+latest Tesla news kya hai,REAL_TIME,hinglish
+zoom out,AUTOMATION,english
+next track chalao,AUTOMATION,hinglish
+bluetooth on karo,AUTOMATION,hinglish
+new browser tab kholo,AUTOMATION,hinglish
+open the pictures folder,AUTOMATION,english
+current window band karo,AUTOMATION,hinglish
+search for something on Google,AUTOMATION,english
+task manager kholo,AUTOMATION,hinglish
+latest Sensex news kya hai,REAL_TIME,hinglish
+application band karo,AUTOMATION,hinglish
+open youtube,AUTOMATION,english
+What is memory management?,GENERAL,english
+polymorphism kya hai,GENERAL,hinglish
+increase screen brightness,AUTOMATION,english
+database kya hota hai,GENERAL,hinglish
+Manali ka current weather kya hai,REAL_TIME,hinglish
+Who was Albert Einstein?,GENERAL,english
+latest football news kya hai,REAL_TIME,hinglish
+quantum computing samjhao,GENERAL,hinglish
+turn off dark mode,AUTOMATION,english
+window maximize karo,AUTOMATION,hinglish
+command prompt kholo,AUTOMATION,hinglish
+recycle bin kholo,AUTOMATION,hinglish
+Explain exception handling,GENERAL,english
+check karke batao abhi weather kaisa hai,REAL_TIME,hinglish
+object kya hota hai,GENERAL,hinglish
+start chrome,AUTOMATION,english
+open music folder,AUTOMATION,english
+latest world news kya hai,REAL_TIME,hinglish
+market ka current trend kya hai,REAL_TIME,hinglish
+music pause karo,AUTOMATION,hinglish
+dataset kya hota hai,GENERAL,hinglish
+is it cold outside right now,REAL_TIME,english
+when does the sun rise tomorrow,REAL_TIME,english
+powershell kholo,AUTOMATION,hinglish
+computer vision samjhao,GENERAL,hinglish
+What is Python?,GENERAL,english
+scroll up,AUTOMATION,english
+calendar kholo,AUTOMATION,hinglish
+resume the music,AUTOMATION,english
+latest YouTube trend kya hai,REAL_TIME,hinglish
+youtube launch karo,AUTOMATION,hinglish
+open the start menu,AUTOMATION,english
+What is a linked list?,GENERAL,english
+vscode start karo,AUTOMATION,hinglish
+launch chrome,AUTOMATION,english
+what is the latest space news,REAL_TIME,english
+latest Google news kya hai,REAL_TIME,hinglish
+What is supervised learning?,GENERAL,english
+What is photosynthesis?,GENERAL,english
+regression kya hai,GENERAL,hinglish
+What is frontend development?,GENERAL,english
+What is electricity?,GENERAL,english
+music band karo,AUTOMATION,hinglish
+Docker kya hai,GENERAL,hinglish
+aaj shaam ka forecast kya hai,REAL_TIME,hinglish
+what is the gold price per gram today,REAL_TIME,english
+sensor kya hota hai,GENERAL,hinglish
+what is today's market closing,REAL_TIME,english
+paste this file,AUTOMATION,english
+is it hot outside right now,REAL_TIME,english
+close the current window,AUTOMATION,english
+AI ke baare mein latest news kya hai,REAL_TIME,hinglish
+What is a sensor?,GENERAL,english
+What is an activation function?,GENERAL,english
+next cricket match kab hai,REAL_TIME,hinglish
+close my browser,AUTOMATION,english
+What is JavaScript?,GENERAL,english
+screen brightness badhao,AUTOMATION,hinglish
+Bangalore ka current weather kya hai,REAL_TIME,hinglish
+What is a large language model?,GENERAL,english
+Explain computer networks,GENERAL,english
+object oriented programming samjhao,GENERAL,hinglish
+What is a cell?,GENERAL,english
+abhi traffic update kya hai,REAL_TIME,hinglish
+what is the current exchange rate,REAL_TIME,english
+theory of relativity samjhao,GENERAL,hinglish
+downloads folder kholo,AUTOMATION,hinglish
+natural language processing kya hai,GENERAL,hinglish
+Explain clustering,GENERAL,english
+what is the latest football score,REAL_TIME,english
+computer shutdown karo,AUTOMATION,hinglish
+chrome kholo,AUTOMATION,hinglish
+youtube kholo,AUTOMATION,hinglish
+please samjhao machine learning kya hai,GENERAL,hinglish
+close the current application,AUTOMATION,english
+tree kya hai,GENERAL,hinglish
+vscode kholo,AUTOMATION,hinglish
+latest India news batao,REAL_TIME,hinglish
+aaj silver ka rate kya hai,REAL_TIME,hinglish
+"Jarvis, chrome kholo please",AUTOMATION,hinglish
+authentication kya hai,GENERAL,hinglish
+classification kya hai,GENERAL,hinglish
+cloud computing samjhao,GENERAL,hinglish
+latest Nifty news kya hai,REAL_TIME,hinglish
+notepad kholo,AUTOMATION,hinglish
+what are the latest headlines,REAL_TIME,english
+restart the application,AUTOMATION,english
+latest stock market update kya hai,REAL_TIME,hinglish
+current file save karo,AUTOMATION,hinglish
+What is Big O notation?,GENERAL,english
+check karke batao abhi weather kaisa hai aaj,REAL_TIME,hinglish
+what is the current weather in Rishikesh,REAL_TIME,english
+Explain artificial intelligence,GENERAL,english
+display settings kholo,AUTOMATION,hinglish
+is weekend kya ho raha hai,REAL_TIME,hinglish
+What is Docker?,GENERAL,english
+machine learning feature kya hota hai,GENERAL,hinglish
+What is the solar system?,GENERAL,english
+saara text select karo,AUTOMATION,hinglish
+aaj business headlines kya hain,REAL_TIME,hinglish
+Can you check what is the weather right now,REAL_TIME,english
+aaj gold ka rate kya hai,REAL_TIME,hinglish
+what is the latest Google news,REAL_TIME,english
+What is inheritance?,GENERAL,english
+what are the current standings,REAL_TIME,english
+check karke batao abhi weather kaisa hai abhi,REAL_TIME,hinglish
+convert today's dollar rate to rupees,REAL_TIME,english
+last action undo karo,AUTOMATION,hinglish
+inheritance kya hai,GENERAL,hinglish
+What is an operating system?,GENERAL,english
+what is the current bitcoin price,REAL_TIME,english
+restart my computer,AUTOMATION,english
+what is the current weather in Jaipur,REAL_TIME,english
+debugging kya hoti hai,GENERAL,hinglish
+HTTP kya hai,GENERAL,hinglish
+please chrome kholo abhi,AUTOMATION,hinglish
+open my browser,AUTOMATION,english
+Delhi mein abhi temperature kya hai,REAL_TIME,hinglish
+task manager kholo aur processes dikhao,AUTOMATION,hinglish
+latest Microsoft news kya hai,REAL_TIME,hinglish
+encapsulation kya hai,GENERAL,hinglish
+please batao abhi weather kaisa hai,REAL_TIME,hinglish
+abhi ka latest update kya hai,REAL_TIME,hinglish
+open downloads,AUTOMATION,english
+DNA kya hai,GENERAL,hinglish
+current tab band karo,AUTOMATION,hinglish
+decrease screen brightness,AUTOMATION,english
+current standings kya hain,REAL_TIME,hinglish
+minimize all windows,AUTOMATION,english
+abhi oil ka price kya hai,REAL_TIME,hinglish
+Explain gradient descent,GENERAL,english
+aaj game kisne jeeta,REAL_TIME,hinglish
+aaj kaun se events hain,REAL_TIME,hinglish
+computer restart karo,AUTOMATION,hinglish
+graph kya hai,GENERAL,hinglish
+What is an Arduino?,GENERAL,english
+what day is it today,REAL_TIME,english
+latest technology news batao,REAL_TIME,hinglish
+SQL kya hai,GENERAL,hinglish
+HTML kya hai,GENERAL,hinglish
+human brain kaise kaam karta hai,GENERAL,hinglish
+what is the current weather in Hyderabad,REAL_TIME,english
+wifi off karo,AUTOMATION,hinglish
+what is the current fuel price,REAL_TIME,english
+abhi storm hai kya,REAL_TIME,hinglish
+what is Sensex doing today,REAL_TIME,english
+file kholo,AUTOMATION,hinglish
+what is the air quality right now,REAL_TIME,english
+open bluetooth settings,AUTOMATION,english
+What is Dart?,GENERAL,english
+open display settings,AUTOMATION,english
+What is a stack?,GENERAL,english
+what are today's business headlines,REAL_TIME,english
+What is an interpreter?,GENERAL,english
+latest AI news kya hai,REAL_TIME,hinglish
+who won today's match,REAL_TIME,english
+large language model kya hai,GENERAL,hinglish
+aaj ka match kisne jeeta,REAL_TIME,hinglish
+Explain software engineering,GENERAL,english
+play the next song,AUTOMATION,english
+Explain quantum computing,GENERAL,english
+open task manager and show processes,AUTOMATION,english
+What is an embedding?,GENERAL,english
+How does sorting work?,GENERAL,english
+authorization kya hai,GENERAL,hinglish
+"Jarvis, chrome kholo",AUTOMATION,hinglish
+Tell me what is the weather right now today,REAL_TIME,english
+What is a graph?,GENERAL,english
+tell me something about neural networks,GENERAL,english
+tell me about databases,GENERAL,english
+why do we use databases,GENERAL,english
+why are neural networks useful,GENERAL,english
+how does a compiler work,GENERAL,english
+can you explain machine learning,GENERAL,english
+tell me how APIs work,GENERAL,english
+why is Python popular,GENERAL,english
+what is the purpose of normalization,GENERAL,english
+explain the concept of inheritance,GENERAL,english
+how does backpropagation work,GENERAL,english
+why do we need operating systems,GENERAL,english
+tell me about object oriented programming,GENERAL,english
+what is the difference between AI and ML,GENERAL,english
+how does encryption work,GENERAL,english
+why do we use version control,GENERAL,english
+can you explain recursion,GENERAL,english
+what is the purpose of an API,GENERAL,english
+how does a database work,GENERAL,english
+tell me about computer networks,GENERAL,english
+neural networks ke baare mein batao,GENERAL,hinglish
+databases ke baare mein batao,GENERAL,hinglish
+hum databases kyun use karte hain,GENERAL,hinglish
+neural networks useful kyun hain,GENERAL,hinglish
+compiler kaise kaam karta hai,GENERAL,hinglish
+machine learning samjha do,GENERAL,hinglish
+API kaise kaam karti hai,GENERAL,hinglish
+Python itni popular kyun hai,GENERAL,hinglish
+normalization ka purpose kya hai,GENERAL,hinglish
+inheritance ka concept samjhao,GENERAL,hinglish
+backpropagation kaise kaam karta hai,GENERAL,hinglish
+operating system ki zarurat kyun hoti hai,GENERAL,hinglish
+OOP ke baare mein batao,GENERAL,hinglish
+AI aur ML mein kya difference hai,GENERAL,hinglish
+encryption kaise kaam karti hai,GENERAL,hinglish
+version control kyun use karte hain,GENERAL,hinglish
+recursion samjhao,GENERAL,hinglish
+API ka purpose kya hai,GENERAL,hinglish
+database kaise kaam karta hai,GENERAL,hinglish
+computer networks ke baare mein batao,GENERAL,hinglish
+why do we use Python,GENERAL,english
+use Python to open the calculator,AUTOMATION,english
+what is the weather system,GENERAL,english
+what is the weather right now,REAL_TIME,english
+why do we use databases,GENERAL,english
+why are databases important,GENERAL,english
+what is the purpose of a database,GENERAL,english
+why do applications use databases,GENERAL,english
+what does a database do,GENERAL,english
+why do we need databases,GENERAL,english
+how do databases work,GENERAL,english
+what is a database used for,GENERAL,english
+why are databases useful,GENERAL,english
+what is the role of a database,GENERAL,english
+database ka use kyun karte hain,GENERAL,hinglish
+database ki zarurat kyun hoti hai,GENERAL,hinglish
+database kya kaam karta hai,GENERAL,hinglish
+database important kyun hai,GENERAL,hinglish
+application mein database kyun use hota hai,GENERAL,hinglish
+database ka purpose kya hai,GENERAL,hinglish
+database kaise kaam karta hai,GENERAL,hinglish
+hame database ki zarurat kyun hai,GENERAL,hinglish
+database ka use kya hota hai,GENERAL,hinglish
+database useful kyun hai,GENERAL,hinglish
+what is an API,GENERAL,english
+what does an API do,GENERAL,english
+why do we use APIs,GENERAL,english
+how does an API work,GENERAL,english
+what is the purpose of an API,GENERAL,english
+explain APIs,GENERAL,english
+why are APIs important,GENERAL,english
+API ka use kyun karte hain,GENERAL,hinglish
+API kya hota hai,GENERAL,hinglish
+API kya kaam karta hai,GENERAL,hinglish
+API kaise kaam karta hai,GENERAL,hinglish
+what is Chrome,GENERAL,english
+what is a browser,GENERAL,english
+how does Chrome work,GENERAL,english
+what is a calculator,GENERAL,english
+what is screen brightness,GENERAL,english
+what is YouTube,GENERAL,english
+why do we use browsers,GENERAL,english
+open Chrome,AUTOMATION,english
+launch Chrome,AUTOMATION,english
+Chrome kholo,AUTOMATION,hinglish
+calculator open karo,AUTOMATION,hinglish
+open YouTube,AUTOMATION,english
+YouTube kholo,AUTOMATION,hinglish
+increase brightness,AUTOMATION,english
+brightness kam karo,AUTOMATION,hinglish
+open the browser,AUTOMATION,english
+launch calculator,AUTOMATION,english
