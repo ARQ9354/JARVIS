@@ -1,5 +1,15 @@
+# Virtual environment
 .venv/
+venv/
+
+# Python cache
 __pycache__/
 *.pyc
-.env
+
+# VS Code
 .vscode/
+
+# Speech recordings - DO NOT PUSH
+data/speech_dataset/audio/
+data/speech_dataset/processed/
+data/speech_dataset/metadata.csv

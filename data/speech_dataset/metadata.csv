@@ -1,3 +1,2 @@
-timestamp | audio_file | transcription2026-09-09 23:01:55,20260909_230139_196137.wav,open Chrome
-2026-09-09 23:02:10,20260909_230205_353948.wav,open youtube
-2026-09-09 23:05:48,20260909_230508_866148.wav,open calculator
+timestamp,audio_file,stt_text,corrected_text
+

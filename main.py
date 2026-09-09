@@ -26,23 +26,22 @@ for user_input, audio_file in speech_stream():
     )
 
     if answer.lower() == "y":
-
         save_correction(
-            audio_file,
-            user_input
-        )
+        audio_file,
+        user_input,
+        user_input
+    )
+
 
     else:
-
-        corrected_text = input(
-            "What did you actually say? : "
-        )
-
+        corrected_text = input("What did you actually say? : ")
         save_correction(
-            audio_file,
-            corrected_text
+        audio_file,
+        user_input,
+        corrected_text
         )
 
+        
         # Use corrected command
         user_input = corrected_text
         intent, confidence = predict_intent(user_input)

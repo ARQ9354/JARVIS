@@ -13,7 +13,7 @@ METADATA_FILE = (
 )
 
 
-def save_correction(audio_file, corrected_text):
+def save_correction(audio_file, stt_text, corrected_text):
 
     file_exists = METADATA_FILE.exists()
 
@@ -30,11 +30,13 @@ def save_correction(audio_file, corrected_text):
             writer.writerow([
                 "timestamp",
                 "audio_file",
-                "transcription"
+                "stt_text",
+                "corrected_text"
             ])
 
         writer.writerow([
             datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             audio_file,
+            stt_text,
             corrected_text
         ])

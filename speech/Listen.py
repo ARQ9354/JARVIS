@@ -1,5 +1,5 @@
 import speech_recognition as sr
-from mtranslate import translate
+# from mtranslate import translate
 from pathlib import Path
 from datetime import datetime
 
@@ -25,7 +25,6 @@ def speech_stream():
         print("Microphone opened!")
         print("Calibrating microphone...")
         recognizer.adjust_for_ambient_noise(source, duration=1)
-        print("Jarvis Ready!")
 
         while True:
 
@@ -60,13 +59,18 @@ def speech_stream():
                 print("Piyush :", text)
 
                 # Hindi/Hinglish → English
-                try:
-                    translated_text = translate(text, "en", "hi")
-                except:
-                    translated_text = text
+
+
+                # try:
+                #     translated_text = translate(text, "en", "hi")
+                # except:
+                #     translated_text = text
+
+
 
                 # Return BOTH text and audio path
-                yield translated_text, audio_filename
+                # yield translated_text, audio_filename
+                yield text, audio_filename
 
 
 
